@@ -17,12 +17,12 @@ https://dribbble.com/shots/19807069-Ahead-app-redesign-concept
 
 
 ## Live Link
-https://density-exchange-ahead-app-task.vercel.app
+
 
 # Preview
 
 
-https://github.com/PrateekPheonix/Density.exchange-AheadApp-Task/assets/76847182/66c597f0-7638-4868-bc97-18dba2b72b5c
+
 
 <br/>
 <br/>
@@ -54,7 +54,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
 
 ## Deploy on Vercel
 

@@ -39,7 +39,7 @@ const Footer = () => {
                             alt="location"
                             className='mr-2'
                         />
-                        Level 5, Trifecta Adatto, Banglore
+                        AugustStraBe 26, 10117 Berlin
                     </div>
                     <div className='flex text-sm font-semibold items-center justify-center ml-12 cursor-pointer'>
                         <Image
