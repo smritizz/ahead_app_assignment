@@ -16,7 +16,7 @@ const Shop = () => {
             viewport={{ once: true }}
             className='flex justify-center items-center w-40 h-16 bg-black rounded-md '>
             <Image
-                src='/assets/apple.svg'
+                src='/assets/applestore.svg'
                 width={35}
                 height={35}
                 alt="Logo"

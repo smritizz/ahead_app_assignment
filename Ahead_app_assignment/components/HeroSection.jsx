@@ -59,31 +59,31 @@ const HeroSection = () => {
                             <div
                                 className="flex justify-start">
                                 <Image
-                                    src='/assets/star.png'
+                                    src='/assets/symbolstar.png'
                                     width={20}
                                     height={20}
                                     alt="rating"
                                 />
                                 <Image
-                                    src='/assets/star.png'
+                                    src='/assets/symbolstar.png'
                                     width={20}
                                     height={20}
                                     alt="rating"
                                 />
                                 <Image
-                                    src='/assets/star.png'
+                                    src='/assets/symbolstar.png'
                                     width={20}
                                     height={20}
                                     alt="rating"
                                 />
                                 <Image
-                                    src='/assets/star.png'
+                                    src='/assets/symbolstar.png'
                                     width={20}
                                     height={20}
                                     alt="rating"
                                 />
                                 <Image
-                                    src='/assets/star.png'
+                                    src='/assets/symbolstar.png'
                                     width={20}
                                     height={20}
                                     alt="rating"
