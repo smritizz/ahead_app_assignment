@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import { motion } from 'framer-motion';
-import AppleStore from './AppleStore';
+import Shop from './Shop';
 
 
 
@@ -46,7 +46,7 @@ const HeroSection = () => {
                     </motion.h1>
 
                     <div className='flex items-center mt-10'>
-                        <AppleStore />
+                        <Shop />
                         <motion.div
                             initial={{ scale: 0, opacity: 0 }}
                             transition={{

@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import { motion } from 'framer-motion';
 
-const AboutApp = () => {
+const Aboutsection = () => {
 
 
     return (
@@ -102,4 +102,4 @@ const AboutApp = () => {
     )
 }
 
-export default AboutApp
+export default Aboutsection

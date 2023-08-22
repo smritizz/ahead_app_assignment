@@ -4,7 +4,7 @@ import HeroSection from '@/components/HeroSection'
 import Footer from '@/components/Footer'
 import Section1 from '@/components/Section1'
 import Slider from '@/components/Slider'
-import AboutApp from '@/components/AboutApp'
+import Aboutsection from '@/components/Aboutsection'
 import Timeline from '@/components/Timeline'
 import Section2 from '@/components/Section2'
 import MVP from '@/components/MVP'
@@ -19,7 +19,7 @@ export default function Home() {
       <HeroSection />
       <Section1 />
       <Slider />
-      <AboutApp />
+      <Aboutsection />
       <Timeline />
       <Section2 />
       <MVP />

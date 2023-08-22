@@ -4,7 +4,7 @@ import Image from 'next/image'
 import { motion } from 'framer-motion';
 
 
-const AppleStore = () => {
+const Shop = () => {
     return (
         <motion.div
             initial={{ scale: 0, opacity: 0 }}
@@ -30,4 +30,4 @@ const AppleStore = () => {
     )
 }
 
-export default AppleStore
+export default Shop

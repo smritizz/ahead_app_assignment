@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import { motion } from 'framer-motion';
-import AppleStore from './AppleStore'
+import Shop from './Shop'
 
 
 const Footer = () => {
@@ -53,7 +53,7 @@ const Footer = () => {
                         hi@ahead-app.com
                     </div>
                 </div>
-                <AppleStore />
+                <Shop />
                 <p className='flex text-sm font-semibold my-4 text-[#535353]'>&copy; 2023 Ahead app.All rights reserved</p>
             </div>
 
