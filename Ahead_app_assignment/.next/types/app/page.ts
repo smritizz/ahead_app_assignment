@@ -1,4 +1,4 @@
-// File: C:\Users\Yoga\Downloads\ahead_app_assignment-1\Ahead_app_assignment\app\page.js
+// File: C:\Users\Yoga\Downloads\ahead_app_assignment-2\Ahead_app_assignment\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
